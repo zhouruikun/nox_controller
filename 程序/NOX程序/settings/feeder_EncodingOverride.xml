@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\APP\Gripper_Valve\Gripper_Valve.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\Driver\ChipDriver\SysTick\SysTick.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\Driver\ChipDriver\pwm\pwm.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\Driver\ChipDriver\pwm\pwm.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\Driver\PeriphDriver\EXTI\exti.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\Driver\PeriphDriver\EXTI\exti.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\Driver\PeriphDriver\GPIO\GPIO.C</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\Driver\PeriphDriver\GPIO\GPIO.H</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\2014_work_file\project\LoomControllerAndFeeder\code\LoomControllerAndFeeder\Driver\PeriphDriver\PinInputOutput\PinInputOutput.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
